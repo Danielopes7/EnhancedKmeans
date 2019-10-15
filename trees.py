@@ -10,7 +10,7 @@ IMPLEMENTAÇÕES BÁSICAS PARA O FUNCIONAMENTO DO ALGORITMO:
     
     3 - é preciso ter um método search que retorna o nó procurado
     
-    embaixo está uma árvore rubro negra ainda não implementada, mas com o essencial para o funcinamento
+    embaixo está uma árvore rubro negra ainda não implementada, mas com o essencial para o funcionamento
     do algoritmo Kmeans
 """
 class Node:
