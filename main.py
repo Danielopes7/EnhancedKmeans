@@ -18,6 +18,6 @@ TableHash = ut.TableHashing(DataSet, minHeaps)
 ut.InsertTree(TableHash, tree)
 means.MediaCentroids()
 
-ut.EnhencedKmeans(means, DataSet, tree)
+ut.EnhancedKmeans(means, DataSet, tree)
 ut.printKmeans(DataSet, tree, size)
 

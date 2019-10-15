@@ -34,7 +34,7 @@ def InsertTree (TableHash, tree):
     for i in keys:
         tree.insert(i[0], i[1])
 
-def EnhencedKmeans (means, DataSet, tree):
+def EnhancedKmeans (means, DataSet, tree):
     print( "\nEnhencedKmeans Loading...\n")
     while (means.GetStop() != 0):
         means.DirtyNull()
